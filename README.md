@@ -10,6 +10,6 @@
 
 ## 參考資料
 * [LaTeX – A document preparation system](https://latex-project.org)
-* [新手安裝LaTeX懶人教學(Step by step)]( http://leavedcorn.pixnet.net/blog/post/24773932-新手安裝latex懶人教學(step-by-step)
+* [新手安裝LaTeX懶人教學(Step by step)]( http://leavedcorn.pixnet.net/blog/post/24773932-新手安裝latex懶人教學(step-by-step))
 * [HostMath - Online LaTeX formula editor](http://www.hostmath.com)
 * [清大資工Latex教學](http://www.cs.nthu.edu.tw/~cherung/teaching/2009cs5321/link/latex.pdf)
