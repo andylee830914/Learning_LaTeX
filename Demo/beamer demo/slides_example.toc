@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@sectionintoc {1}{計劃目的}{3}{0}{1}
+\beamer@sectionintoc {2}{計劃內容}{5}{0}{2}
+\beamer@sectionintoc {3}{研究方法}{15}{0}{3}
+\beamer@sectionintoc {4}{結果與討論}{16}{0}{4}
+\beamer@sectionintoc {5}{結論}{17}{0}{5}
+\beamer@sectionintoc {6}{參考資料}{18}{0}{6}
